@@ -1,6 +1,6 @@
 # fe-tech
 前端技术栈
-### nodej
+### :star: nodej
 ### :tada: vue3
-### typescript
-### react
+### :bulb: react
+### :hammer: typescript
